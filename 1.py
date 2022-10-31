@@ -1,0 +1,8 @@
+# Write your code here :-)
+a=float(input('enter a'))
+b=float(input('enter b'))
+c=float(input('enter c'))
+q1=(-b+((b*b)-(4*a*c))**0.5)/(2*a)
+q2=(-b-((b*b)-(4*a*c))**0.5)/(2*a)
+print('root1',q1)
+print('root2',q2)

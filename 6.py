@@ -1,0 +1,5 @@
+# Write your code here :-)
+b=input ('enter base')
+h=input ('enter height')
+a= 0.5 * float (b) * float (h)
+print('area of triangle is'+str (a))
